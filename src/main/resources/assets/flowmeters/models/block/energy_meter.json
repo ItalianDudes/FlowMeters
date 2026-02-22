@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "flowmeters:blocks/energy_meter",
+    "down": "flowmeters:blocks/energy_meter",
+    "up": "flowmeters:blocks/energy_meter",
+    "east": "flowmeters:blocks/energy_meter_input",
+    "west": "flowmeters:blocks/energy_meter_output",
+    "north": "flowmeters:blocks/energy_meter_screen",
+    "south": "flowmeters:blocks/energy_meter"
+  }
+}

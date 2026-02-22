@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "flowmeters:fluid_meter"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+
+    "facing": {
+      "north": {},
+      "south": {},
+      "west": {},
+      "east": {},
+      "up": {},
+      "down": {}
+    }
+  }
+}

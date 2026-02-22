@@ -1,14 +1,14 @@
 [
 {
-  "modid": "energymeters",
-  "name": "Energy Meters",
-  "description": "Adds energy meters for measuring and limiting the throughput of, FE, RF, MJ, EU, and more.",
-  "version": "1.0.2",
+  "modid": "flowmeters",
+  "name": "Flow Meters",
+  "description": "Adds energy meters for measuring and limiting the throughput of, FE, RF, MJ, EU, and Fluids!",
+  "version": "${version}",
   "mcversion": "1.12.2",
-  "url": "https://github.com/vladmarica/energy-meters",
+  "url": "https://github.com/ItalianDudes/FlowMeters",
   "updateUrl": "",
-  "authorList": ["Quintinity"],
-  "credits": "",
+  "authorList": ["Quintinity", "vladmarica"],
+  "credits": "Most credits to vladmarica, the owner of the repository i forked for this project.\nSeriously thanks to quat1024 for providing a modern working forge 1.12.2 template",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

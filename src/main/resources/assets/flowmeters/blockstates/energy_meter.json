@@ -1,0 +1,34 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "flowmeters:energy_meter"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "inventory_fe": [{}],
+    "inventory_mj": [{
+      "model": "flowmeters:energy_meter_mj"
+    }],
+    "inventory_eu": [{
+      "model": "flowmeters:energy_meter_eu"
+    }],
+    "facing": {
+      "north": {},
+      "south": {},
+      "west": {},
+      "east": {},
+      "up": {},
+      "down": {}
+    },
+    "type": {
+      "fe": {},
+      "mj": {
+        "model": "flowmeters:energy_meter_mj"
+      },
+      "eu": {
+        "model": "flowmeters:energy_meter_eu"
+      }
+    }
+  }
+}

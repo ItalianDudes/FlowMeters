@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "ic2"
+  }],
+  "pattern": [
+    "cgc",
+    "rir",
+    "ccc"
+  ],
+  "key": {
+    "g": {
+      "type": "forge:ore_dict",
+      "ore": "blockGlass"
+    },
+    "c": {
+      "type": "forge:ore_dict",
+      "ore": "ingotRefinedIron"
+    },
+    "r":  {
+      "type": "forge:ore_dict",
+      "ore": "dustRedstone"
+    },
+    "i":  {
+      "item": "#IC2_BASIC_CIRCUIT"
+    }
+  },
+  "result": {
+    "item": "flowmeters:energy_meter",
+    "count": 1,
+    "data": 2
+  }
+}

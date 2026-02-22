@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "flowmeters:blocks/fluid_meter",
+    "down": "flowmeters:blocks/fluid_meter",
+    "up": "flowmeters:blocks/fluid_meter",
+    "east": "flowmeters:blocks/fluid_meter_input",
+    "west": "flowmeters:blocks/fluid_meter_output",
+    "north": "flowmeters:blocks/fluid_meter_screen",
+    "south": "flowmeters:blocks/fluid_meter"
+  }
+}

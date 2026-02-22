@@ -1,0 +1,4 @@
+# Blocks
+tile.flowmeters.energy_meter.name=Energy Meter
+tile.flowmeters.fluid_meter.name=Fluid Meter
+itemGroup.flowmeters=Flow Meters
